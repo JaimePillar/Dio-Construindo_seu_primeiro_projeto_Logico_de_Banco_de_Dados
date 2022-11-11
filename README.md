@@ -7,7 +7,7 @@
 
 # Construindo seu primeiro projeto lógico de Banco de Dados
 
-## Juliana MAscarenhas
+## Juliana Mascarenhas
 
 
 # Criar queries SQL com as cláusulas abaixo: 
